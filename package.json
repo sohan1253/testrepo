@@ -1,0 +1,11 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "\"demoapp\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"sohan\""
+  },
+  "author": "\"sohan\"",
+  "license": "ISC"
+}
